@@ -1,4 +1,4 @@
-# ChrisLim7-BUS4498_Team_Build
+# BUS4498_Team_Build
 
 # About the Agentic System
 
